@@ -39,7 +39,6 @@ const categories = [
   "Workshop",
   "Concert",
   "Sports",
-  "Networking",
   "Hackathon",
   "Seminar",
   "Festival",
