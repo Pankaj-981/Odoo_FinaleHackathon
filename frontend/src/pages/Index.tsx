@@ -168,21 +168,21 @@ const Index = () => {
             <div className="space-y-2">
               <div className="flex items-center justify-center">
                 <Calendar className="w-8 h-8 text-primary mr-2" />
-                <span className="text-3xl font-bold text-foreground">12,000+</span>
+                <span className="text-3xl font-bold text-foreground">1000+</span>
               </div>
               <p className="text-muted-foreground">Events Created</p>
             </div>
             <div className="space-y-2">
               <div className="flex items-center justify-center">
                 <Users className="w-8 h-8 text-primary mr-2" />
-                <span className="text-3xl font-bold text-foreground">500K+</span>
+                <span className="text-3xl font-bold text-foreground">50K+</span>
               </div>
               <p className="text-muted-foreground">Happy Attendees</p>
             </div>
             <div className="space-y-2">
               <div className="flex items-center justify-center">
                 <Star className="w-8 h-8 text-primary mr-2" />
-                <span className="text-3xl font-bold text-foreground">4.9</span>
+                <span className="text-3xl font-bold text-foreground">4.8</span>
               </div>
               <p className="text-muted-foreground">Average Rating</p>
             </div>
