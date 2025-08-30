@@ -73,7 +73,7 @@ export const EventCard = ({ event, onViewDetails, onBookNow }: EventCardProps) =
           </h3>
           <div className="flex items-center gap-1 text-accent font-bold">
             <DollarSign className="w-4 h-4" />
-            {event.price === 0 ? 'Free' : `$${event.price}`}
+            {event.price === 0 ? 'Free' : `${event.price}`}
           </div>
         </div>
         <p className="text-muted-foreground text-sm line-clamp-2">
